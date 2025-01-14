@@ -15122,11 +15122,11 @@
   },
   "com.miui.cloudservice": {
     "list": "Oem",
-    "description": "Mi Cloud Services needed for Mi Cloud\n",
+    "description": "Dependency for synchronizing data with Xiaomi Cloud, including photos, contacts, messages, etc.\n",
     "dependencies": [],
     "neededBy": [],
     "labels": [],
-    "removal": "Recommended"
+    "removal": "Advanced"
   },
   "com.miui.huanji": {
     "list": "Oem",
@@ -15186,11 +15186,11 @@
   },
   "com.miui.micloudsync": {
     "list": "Oem",
-    "description": "Mi Cloud Sync\nNeeded for Cloud synchronization.",
+    "description": "Dependency for synchronizing data with Xiaomi Cloud, including photos, contacts, messages, etc.\n",
     "dependencies": [],
     "neededBy": [],
     "labels": [],
-    "removal": "Recommended"
+    "removal": "Advanced"
   },
   "com.miui.miwallpaper": {
     "list": "Oem",
